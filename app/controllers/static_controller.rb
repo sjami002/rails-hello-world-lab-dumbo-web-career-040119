@@ -1,1 +1,1 @@
-class Static_Controller
+class StaticController
